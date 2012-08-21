@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: sudsds
+Version: 1.0
+Summary: sudsds is a Python SOAP library for accessing Datove schranky
+Home-page: http://labs.nic.cz/datove-schranky/
+Author: CZ.NIC Labs
+Author-email: datove-schranky@labs.nic.cz
+License: GNU LGPL
+Description: sudsds is a Python SOAP library for accessing Datove schranky. It is based on suds (https://fedorahosted.org/suds) and contains some specific features to support Datove schranky.
+Platform: Unix
+Platform: Windows
+Platform: MacOS X
+Provides: sudsds

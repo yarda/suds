@@ -1,0 +1,24 @@
+Czech:
+-----------------------------------------------------------
+sudsds je verze knihovny suds (https://fedorahosted.org/suds) upravená
+pro potřeby spolupráce se serverem Datových schránek. Změny se týkají
+především spolupráce s proxy pomocí HTTPS, ověřování certifikátů serverů
+a dalších funkcí spojených s SSL.
+
+Stejně jako originální suds je sudsds distribuováno pod licencí LGPL.
+
+Vzhledem k tomu, že sudsds je pouze mírně upravenou verzí suds, patří skoro
+všechny zásluhy za kód sudsds autorům suds.
+
+
+English:
+-----------------------------------------------------------
+sudsds is a fork of the suds library (https://fedorahosted.org/suds)
+modified to meet the needs for interaction with the servers of Datové
+schránky. The modifications are related to HTTPS proxy, server certificate
+validation and other SSL related functions. 
+
+Same as suds, sudsds is distributed under the LGPL license.
+
+As sudsds contains only small changes compared to the original suds, almost
+all credits belong to the authors of suds.
